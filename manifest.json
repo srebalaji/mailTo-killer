@@ -3,7 +3,7 @@
 
   "name": "mailTo Killer",
   "description": "This extension helps you copy the email address of mailto link in every website",
-  "version": "5.0",
+  "version": "2.0",
 
   "browser_action": {
    "icons": {"256": "logo.png",

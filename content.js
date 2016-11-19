@@ -1,7 +1,7 @@
 //alert("hello..I just got injected");
 var letters = /^[A-Za-z]+$/;
 var links = document.getElementsByTagName('a');
-var patt2 = /mailto/g;
+var patt2 = /mailto:/g;
 var link;
 for (var i=0; i<links.length; i++)
 {
